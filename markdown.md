@@ -54,7 +54,7 @@ header
 # Text selection
 with * or _
 
-*curcive*
+*curcive*git 
 **bold**
 ***curcive and bold***
 
@@ -96,4 +96,4 @@ between character can be located spaces
 
 # Strikethrough
 
-~~ This text is Strikethrough ~~
+~~This text is Strikethrough~~
